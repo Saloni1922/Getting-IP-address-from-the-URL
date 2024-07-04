@@ -1,7 +1,11 @@
-# Network and port Scanner
+# IP Address Lookup Tool
 
-A port scanner acts as a detective, allowing network administrators to explore the network  to identify potential vulnerabilities.
 
-A port scanner focuses specifically on identifying open ports on network devices. Ports are virtual communication channels that allow different services and applications to exchange data. 
+Its a tool in which  Python script retrieves the IP address associated with a website URL. It performs a passive DNS lookup using the socket module's gethostbyname function.
 
-Port scanners typically use TCP (Transmission Control Protocol) or UDP (User Datagram Protocol) packets to probe specific ports on a target device. The scanner analyzes the responses to determine if a port is open, filtered, or closed.
+
+Important Considerations:
+
+DNS records might not always be accurate or reflect the current IP address of a website.
+This code doesn't perform any active scanning or probing of the network.
+It's generally recommended to use this type of code for educational purposes or with proper authorization when dealing with websites.
