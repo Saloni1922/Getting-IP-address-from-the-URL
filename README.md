@@ -1,4 +1,4 @@
-##To get the IP address from a URL, you're essentially resolving the domain name in the URL (like www.google.com) to its corresponding IP address using DNS (Domain Name System). 
+# To get the IP address from a URL, you're essentially resolving the domain name in the URL (like www.google.com) to its corresponding IP address using DNS (Domain Name System). 
 
 # IP Address Lookup Tool
 
